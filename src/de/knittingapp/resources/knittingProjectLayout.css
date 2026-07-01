@@ -1,0 +1,10 @@
+.list-view .list-cell:empty {
+    -fx-padding: 0;
+    -fx-border-insets: 0;
+    -fx-background-insets: 0;
+    -fx-pref-height: 0;
+    -fx-background-color: white;
+    /*-fx-min-height: 0;
+    -fx-max-height: 0;
+    */
+}

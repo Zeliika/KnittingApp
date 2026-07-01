@@ -1,0 +1,15 @@
+.toggle-button {
+    -fx-base-color: #999999; /* default, will be overridden */
+    -fx-background-color: -fx-base-color;
+    -fx-background-insets: 0;
+    -fx-background-radius: 4;
+    -fx-border-color: transparent;
+    -fx-border-width: 3;
+    -fx-border-radius: 4;
+}
+
+.toggle-button:selected{
+    -fx-border-color: #0096C9;  /* Blue border when selected */
+    -fx-border-width: 3;
+    -fx-background-color: -fx-base-color
+}

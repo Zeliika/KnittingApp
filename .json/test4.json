@@ -1,0 +1,446 @@
+{
+  "title": "New project4",
+  "instructionsList": [
+    {
+      "name": "New Pattern",
+      "writtenInstructions": "",
+      "type": "pattern",
+      "ratio": 0.5,
+      "backgroundColor": "#000000ff",
+      "pattern": [
+        [
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          }
+        ],
+        [
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 1,
+            "stitchType": 5
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 5
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          }
+        ],
+        [
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 1,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 1,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 5
+          }
+        ],
+        [
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 5
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          }
+        ],
+        [
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          }
+        ],
+        [
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          }
+        ],
+        [
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          }
+        ],
+        [
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          }
+        ],
+        [
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          }
+        ],
+        [
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          },
+          {
+            "colorIndex": 0,
+            "stitchType": 1
+          }
+        ]
+      ],
+      "colorPallet": [
+        "#ffffffff",
+        "#ff9980ff",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  ]
+}

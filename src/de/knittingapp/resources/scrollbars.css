@@ -1,0 +1,11 @@
+/* For the pane WITH scrollbars */
+.scrollPane {
+    overflow: auto; /* or overflow-y: scroll */
+    scrollbar-gutter: auto; /* Reserves space for scrollbar */
+}
+
+/* For the pane WITHOUT visible scrollbars */
+.rowNumberScrollPane {
+    overflow: hidden;
+    scrollbar-gutter: stable; /* Reserves space but hides scrollbar */
+}

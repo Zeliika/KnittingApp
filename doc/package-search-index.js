@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"KnittingApp","l":"de.knittingapp.backend"},{"m":"KnittingApp","l":"de.knittingapp.dto"},{"m":"KnittingApp","l":"de.knittingapp.frontend"},{"m":"KnittingApp","l":"de.knittingapp.middletier"},{"m":"KnittingApp","l":"test"}];updateSearchResults();

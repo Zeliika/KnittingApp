@@ -1,0 +1,6 @@
+module:KnittingApp
+de.knittingapp.backend
+de.knittingapp.dto
+de.knittingapp.frontend
+de.knittingapp.middletier
+test
